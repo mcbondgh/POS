@@ -1,0 +1,33 @@
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\POS APPLICATION.vbproj.GenerateResource.Cache
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\bin\Debug\McHarris POS.exe.config
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\bin\Debug\McHarris POS.exe
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\bin\Debug\McHarris POS.pdb
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\bin\Debug\McHarris POS.xml
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarrisPOS.AddProductsForm.resources
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarrisPOS.AdminForm.resources
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarrisPOS.CategoryForm.resources
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarrisPOS.UserLogin.resources
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarrisPOS.Resources.resources
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarrisPOS.ProductsForm.resources
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarrisPOS.register_user.resources
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarrisPOS.salesForm.resources
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarrisPOS.StockManagerForm.resources
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarrisPOS.supplierForm.resources
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarrisPOS.updateProduct.resources
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarris POS.exe
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarris POS.xml
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarris POS.pdb
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarrisPOS.ManagerForm.resources
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarrisPOS.salesPersonnelFrom.resources
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarrisPOS.UserLogForm.resources
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarrisPOS.SalesForm2.resources
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarrisPOS.MiniProductsForm.resources
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarrisPOS.SalesReportForm.resources
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\bin\Debug\McHarris POS.exe.manifest
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\bin\Debug\McHarris POS.application
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\RdlCompile.cache
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\RdlCompile.compiled
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarris POS.TrustInfo.xml
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarris POS.exe.manifest
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\McHarris POS.application
+E:\Point Of Sales\POS\POS APPLICATION\POS APP\obj\Debug\POS APPLICATION.vbprojResolveAssemblyReference.cache

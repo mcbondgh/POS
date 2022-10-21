@@ -1,0 +1,228 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+McHarrisPOS
+</name>
+</assembly>
+<members>
+<member name="T:McHarrisPOS.DataSet1.salesReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:McHarrisPOS.DataSet1.salesReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:McHarrisPOS.DataSet1.salesReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:McHarrisPOS.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:McHarrisPOS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:McHarrisPOS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:McHarrisPOS.My.Resources.Resources.POS_logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:McHarrisPOS.My.Resources.Resources.POS_logo_transparent">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:McHarrisPOS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.categoriesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.productsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.registrationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.salesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.signinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.signoutDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.suppliersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.stockQueryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.LOGSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.categoriesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.productsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.registrationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.salesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.signinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.signoutRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.suppliersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.stockQueryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.LOGSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.categoriesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.productsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.registrationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.salesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.signinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.signoutRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.suppliersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.stockQueryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll.LOGSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAll">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAllTableAdapters.categoriesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAllTableAdapters.productsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAllTableAdapters.registrationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAllTableAdapters.salesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAllTableAdapters.signinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAllTableAdapters.signoutTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAllTableAdapters.suppliersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAllTableAdapters.stockQueryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAllTableAdapters.LOGSTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:McHarrisPOS.POSDataSetAllTableAdapters.TableAdapterManager.UpdateUpdatedRows(McHarrisPOS.POSDataSetAll,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:McHarrisPOS.POSDataSetAllTableAdapters.TableAdapterManager.UpdateInsertedRows(McHarrisPOS.POSDataSetAll,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:McHarrisPOS.POSDataSetAllTableAdapters.TableAdapterManager.UpdateDeletedRows(McHarrisPOS.POSDataSetAll,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:McHarrisPOS.POSDataSetAllTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:McHarrisPOS.POSDataSetAllTableAdapters.TableAdapterManager.UpdateAll(McHarrisPOS.POSDataSetAll)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAllTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAllTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:McHarrisPOS.POSDataSetAllTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
